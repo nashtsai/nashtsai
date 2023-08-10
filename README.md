@@ -1,4 +1,11 @@
-### Hi there 👋
+## Hi there 👋
+
+- 💬 Ask me about **Cloud Native**, **Kubernetes**, **Data on K8s**, **[KubeBlocks](https://kubeblocks.io/)**
+
+<a href="https://github.com/yankay">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=nashtsai&show_icons=true" />
+</a>
+
 
 <!--
 **nashtsai/nashtsai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
