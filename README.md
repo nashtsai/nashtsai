@@ -2,7 +2,9 @@
 
 - 💬 Ask me about **Cloud Native**, **Kubernetes**, **Data on K8s**, **[KubeBlocks](https://kubeblocks.io/)**
 
-<a href="https://github.com/yankay">
+![Metrics](/github-metrics.svg)
+
+<a href="https://github.com/nashtsai">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=nashtsai&show_icons=true" />
 </a>
 
