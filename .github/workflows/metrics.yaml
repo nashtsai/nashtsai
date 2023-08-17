@@ -12,7 +12,8 @@ jobs:
     permissions:
       contents: write    
     steps:
-      - uses: lowlighter/metrics@latest
+      - name: Basic GH metrics
+        uses: lowlighter/metrics@latest
         with:
           # Your GitHub token
           token: ${{ secrets.METRICS_TOKEN }}
@@ -21,3 +22,11 @@ jobs:
           user: nashtsai
           template: classic
           base: header, activity, community
+      - name: Full-year calendar
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.plugin.isocalendar.fullyear.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
